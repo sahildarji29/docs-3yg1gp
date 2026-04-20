@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-09ocqp.mcpskills.ru/sitemap.xml
